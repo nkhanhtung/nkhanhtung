@@ -16,12 +16,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nkhanhtung.nkhanhtung&"  />
-</div>
-
-###
-
 <h1 align="center">Hi 👋, I'm Nguyen Khanh Tung</h1>
 
 <h2 align="left">👩‍💻  About Me</h3>
