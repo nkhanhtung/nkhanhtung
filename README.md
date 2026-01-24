@@ -26,7 +26,7 @@
 
 <h2 align="left">👩‍💻  About Me</h3>
 
-<h3 align="center">An AI-oriented student from UET-VNU. I am passionate about building meaningful AI applications.</h3>
+<h3 align="justify">An AI-oriented student from UET-VNU. I am passionate about building meaningful AI applications.</h3>
 
 ###
 
@@ -48,9 +48,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=nkhanhtung&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nkhanhtung&show_icons=true&locale=en&layout=compact" alt="nkhanhtung" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nkhanhtung&show_icons=true&locale=en" alt="nkhanhtung" /></p>
 
 ###
 
