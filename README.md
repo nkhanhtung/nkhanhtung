@@ -5,7 +5,13 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/t%C3%B9ng-nguy%E1%BB%85n-kh%C3%A1nh-4a1b65344/" target="_blank">
+    <img
+      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
+      height="25"
+      alt="LinkedIn profile"
+    />
+  </a>
 </div>
 
 ###
