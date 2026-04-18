@@ -1,4 +1,4 @@
-<div align="center" >
+<div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="150" src="https://cdn.haitrieu.com/wp-content/uploads/2021/10/Logo-DH-Cong-Nghe-UET.png" />
