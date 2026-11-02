@@ -23,7 +23,7 @@
 
 <h2 align="left">👩‍💻  About Me</h3>
 
-<h3 align="justify">An AI-oriented student from UET-VNU. I am passionate about building meaningful AI applications.</h3>
+<h3 align="justify">An AI-oriented student from UET-VNU. I am passionate about building meaningful AI applications. I also love doing AI research and aspire to have a paper on my own.</h3>
 
 ###
 
